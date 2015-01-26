@@ -14,7 +14,9 @@ while running == True:
     command = input(">>> ")
         
     if command == "exit":
-    
-        sys.exit()
+        
+        running = False
         
     exec command
+    
+sys.exit()
