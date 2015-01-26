@@ -1,4 +1,4 @@
-#Python AwesomePythonTerminal v0.1 by Cosmic Open Source Projects
+#Python Awesome Python Terminal v0.1 by Cosmic Open Source Projects
 #Recreating the python terminal with less than 30 lines of code!
         
 import sys
