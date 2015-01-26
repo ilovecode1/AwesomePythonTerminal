@@ -10,4 +10,6 @@ System Info may change in latter versions.
 
 #Clone
 
+`
 git clone https://github.com/ilovecode1/AwesomePythonTerminal.git
+`
