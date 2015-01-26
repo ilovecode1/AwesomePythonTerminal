@@ -2,11 +2,10 @@
 #Recreating the python terminal with less than 30 lines of code!
         
 import sys
-import os
 
 print("AwesomePythonTerminal v0.1")
-print('Type "help", "copyright", "credits" or "license" for more information.')
 print(sys.version)
+print('Type "help", "copyright", "credits" or "license" for more information.')
 
 running = True
 
