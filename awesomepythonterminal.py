@@ -23,7 +23,7 @@ while running == True:
         print()
         print("Learn More at https://github.com/ilovecode1/AwesomePythonTerminal")
         print("-----------------------------------------------------------------")
-        help
+        help()
     
     if command != "exit" or "help":
         
