@@ -25,7 +25,7 @@ while running == True:
         print("-----------------------------------------------------------------")
         help
     
-    else:
+    if command != "exit" or "help":
         
         exec command
     
