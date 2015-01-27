@@ -3,7 +3,7 @@
         
 import sys
 
-print("AwesomePythonTerminal v0.1")
+print("AwesomePythonTerminal v0.1.5")
 print(sys.version)
 print('Type "help", "copyright", "credits" or "license" for more information.')
 
@@ -19,7 +19,7 @@ while running == True:
     
     else if command == "help"
         
-        print("Awesome Python Terminal v1.5 by Cosmic Open Source Projects")
+        print("Awesome Python Terminal v0.1.5 by Cosmic Open Source Projects")
         print()
         print("Learn More at https://github.com/ilovecode1/AwesomePythonTerminal")
         print("-----------------------------------------------------------------")
