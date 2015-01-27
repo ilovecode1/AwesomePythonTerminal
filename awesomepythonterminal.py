@@ -17,7 +17,7 @@ while running == True:
         
         running = False
     
-    if command == "help"
+    if command == "help":
         
         print("Awesome Python Terminal v0.1.5 by Cosmic Open Source Projects")
         print()
