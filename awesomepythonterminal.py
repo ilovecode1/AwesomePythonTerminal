@@ -1,4 +1,4 @@
-#Python Awesome Python Terminal v0.1 by Cosmic Open Source Projects
+#Python Awesome Python Terminal v0.1.5 by Cosmic Open Source Projects
 #Recreating the python terminal with less than 30 lines of code!
         
 import sys
@@ -12,11 +12,21 @@ running = True
 while running == True:
 
     command = input(">>> ")
-        
+    
     if command == "exit":
         
         running = False
+    
+    else if command == "help"
         
-    exec command
+        print("Awesome Python Terminal v1.5 by Cosmic Open Source Projects")
+        print()
+        print("Learn More at https://github.com/ilovecode1/AwesomePythonTerminal")
+        print("-----------------------------------------------------------------")
+        print(help)
+    
+    else:
+        
+        exec command
     
 sys.exit()
