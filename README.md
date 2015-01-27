@@ -1,6 +1,6 @@
 # AwesomePythonTerminal
 
-Recreating the python terminal with less than 30 lines of code!
+Recreating the python terminal with less than 40 lines of code!
 
 #System Info
 
