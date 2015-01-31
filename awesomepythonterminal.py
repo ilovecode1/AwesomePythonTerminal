@@ -4,7 +4,7 @@
 import sys
 
 print("AwesomePythonTerminal v0.1.5.5")
-print("python " + sys.version)
+print("Python " + sys.version)
 print('Type "help", "copyright", "credits" or "license" for more information.')
 
 running = True
