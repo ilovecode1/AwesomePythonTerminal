@@ -1,9 +1,9 @@
-#Python Awesome Python Terminal v0.1.5.5 by Cosmic Open Source Projects
+#Python Awesome Python Terminal v0.2 by Cosmic Open Source Projects
 #Recreating the python terminal with less than 30 lines of code!
         
 import sys
 
-print("AwesomePythonTerminal v0.1.5.5")
+print("AwesomePythonTerminal v0.2")
 print("Python " + sys.version)
 print('Type "help", "copyright", "credits" or "license" for more information.')
 
@@ -19,7 +19,7 @@ while running == True:
     
     if command == "help":
         
-        print("Awesome Python Terminal v0.1.5.5 by Cosmic Open Source Projects")
+        print("Awesome Python Terminal v0.1.2 by Cosmic Open Source Projects")
         print()
         print("Learn More at https://github.com/ilovecode1/AwesomePythonTerminal")
         print("-----------------------------------------------------------------")
